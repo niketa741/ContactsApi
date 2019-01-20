@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 999
+  firstName: Simran
+  lastName: Barnwal
+  email: bsqwa@@rediffmail.com
+
+two:
+  id: 9990
+  firstName: Rajesh
+  lastName: Koothrapali
+  email: iamraj@@yahoo.com
